@@ -110,6 +110,4 @@ python3 file_identifier.py -d /quarantine/ -r -v --mismatches-only --json report
 - **Incident response** — identify malware payloads hidden behind benign extensions
 - **CTF / security training** — learn how magic bytes and file signatures work
 
-## License
 
-MIT
